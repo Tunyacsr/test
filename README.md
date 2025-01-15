@@ -4,6 +4,6 @@
 # negyedik sor 
 # ez egy hármas szintű címsor
 _ez a szöveg félkövér lesz_
-*ez a szöveg dőlt betűs lesz*
-__ez a szöveg milyen lesz?__
-**ez a szöveg milyen lesz?_**
+*ez a szöveg dőlt betűs lesz* <br>
+__ez a szöveg milyen lesz?__  <br>
+**ez a szöveg milyen lesz?**
